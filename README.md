@@ -23,3 +23,17 @@ Contributions are welcome! Please fork the repository, make changes, and submit 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Project Preview
+
+**Home Page**
+![alt text](img/preview.PNG)
+
+**Add Contact Page**
+![alt text](img/preview2.PNG)
+
+**View Contact Page**
+![alt text](img/preview3.PNG)
+
+**Update Contact Page**
+![alt text](img/preview4.PNG)
